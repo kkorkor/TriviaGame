@@ -21,8 +21,8 @@ img {
 #ansblk {
   text-align: center;
   font-weight: bolder;
-  font-size: 50px;
-  color: yellow;
+  font-size: 60px;
+  color: black;
 
 }
 
@@ -30,17 +30,21 @@ img {
   text-align: center;
   font-weight: bold;
   font-size: 50px;
+  color: black;
+  padding: 40px;
+  margin: 40px;
+  background-color: blue;
 }
 p {
-    margin: 10px;
-    font-weight: bold;
-    color: red;
-    font-size: 50px;
-  }
+  margin: 10px;
+  font-weight: bold;
+  color: red;
+  font-size: 50px;
+}
   
 #reset {
   visibility: visible;
-  font-size: 40px;
+  font-size: 50px;
   color: blue;
 }
 
@@ -71,7 +75,8 @@ body {
 .answerchoice {
 	border: 1px solid black;
 	width: 40%;
-	color: black;
+  color: black;
+  font-size: 40px;
   text-align: center;
   margin: 10px auto;
   font-size: 50px;
