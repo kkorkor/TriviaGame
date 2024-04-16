@@ -1,1 +1,5 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOILUpTW3i/1rMplAmGAbnHaDpSfP0cDWDeJtby8I2n your_email@example.com
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOILUpTW3i/1rMplAmGAbnHaDpSfP0cDWDeJtby8I2n kkorkor10@gmail.com
+$ ssh -T GITHUB-kkorkor@github.com
+git remote add origin https://github.com/kkorkor/triviagame.git
+git remote add origin <https://github.com/kkorkor/TriviaGame.git>
+ssh-keygen -t ed25519 -C "kkorkor10@gmail.com"y
