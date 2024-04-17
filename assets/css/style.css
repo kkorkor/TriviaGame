@@ -69,7 +69,7 @@ p {
 }
 
 body {
-  background-image: url("/assets/images/grass.jpeg");
+  background-image: url("../images/grass.jpeg");
   font-family: 'Times New Roman', Times, serif;
 }
 
